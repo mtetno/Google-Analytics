@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleAnalytics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="header_name">Google  Analytics Demo \n Mymasterpeice.comxa.com</string>
+    <string name="bt_track1">Track Button 1</string>
+
+</resources>
